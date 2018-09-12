@@ -71,7 +71,7 @@ while (i < 20) {
 	//then add one to value of i
 	i++;
 }
-//logging the resault of the variable letters
+	//logging the resault of the variable letters
 console.log(letters);
 //result "AAAAAAAAAAAAAAAAAAAAA"
 
